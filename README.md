@@ -4,7 +4,7 @@
 # 👋 Welcome to My GitHub!
 
 I’m **Mario Rinaldi** a passionate computer science student who loves blending creativity with technology.  
-I thrive on building projects that combine **AI,data anayltics and full-stack development** and I’m always exploring new ways to learn, share and innovate. Currently really passionate about Data Analytics, (AI & Machine Learning) and web applications !!!
+I thrive on building projects that combine **AI, Data Analytics and Full-Stack Development** and I’m always exploring new ways to learn, share and innovate. Currently really passionate about Data Analytics, (AI & Machine Learning) and web applications !!!
 
 ---
 
